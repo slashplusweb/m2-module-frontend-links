@@ -8,6 +8,8 @@ use Magento\Framework\Exception\NoSuchEntityException;
 
 /**
  * Class Show
+ *
+ * Block class for showing the frontend link in Magento 2 administration.
  */
 class Show extends \Magento\Backend\Block\Template
 {
