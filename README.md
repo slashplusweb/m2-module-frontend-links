@@ -1,12 +1,11 @@
-# module-frontend-links for Magento 2 
-Add product frontend links to Magento 2 administration
+# Slashplus FrontendLinks for Magento 2 
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/slashplus/module-frontend-links.svg?style=flat-square)](https://packagist.org/packages/slashplus/module-frontend-links)
 [![Total Downloads](https://img.shields.io/packagist/dt/slashplus/module-frontend-links.svg?style=flat-square)](https://packagist.org/packages/slashplus/module-frontend-links)
 [![License](https://img.shields.io/packagist/l/slashplus/module-frontend-links.svg?style=flat-square)](https://packagist.org/packages/slashplus/module-frontend-links)
 [![PHP Support](https://img.shields.io/packagist/php-v/slashplus/module-frontend-links.svg?style=flat-square)](https://packagist.org/packages/slashplus/module-frontend-links)
 
-This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
+Add product frontend links to Magento 2 administration.
 
 ## Installation
 
