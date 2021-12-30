@@ -7,7 +7,7 @@
 
 Add product frontend links to Magento 2 administration.
 
-**Example:**
+**Example:**<br>
 ![example](./example.jpg)
 
 
