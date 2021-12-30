@@ -7,6 +7,10 @@
 
 Add product frontend links to Magento 2 administration.
 
+**Example:**
+![example](./example.jpg)
+
+
 ## Installation
 
 You can install the package via composer:
