@@ -2,10 +2,11 @@
 
 declare(strict_types=1);
 
-namespace VendorName\Skeleton\Block;
+namespace Slashplus\FrontendLinks\Model;
 
-class Skeleton
+class FrontendLinks
 {
+
     public function __construct()
     {
 

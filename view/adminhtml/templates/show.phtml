@@ -1,0 +1,17 @@
+<?php
+/* @var \Slashplus\FrontendLinks\Block\Adminhtml\Show $block
+ * @var \Magento\Framework\Escaper $escaper
+ */
+?>
+<?php if($productUrl = $block->getProductFrontendUrl()): ?>
+    <div class="store-switcher store-view">
+        <div class="admin__field">
+            <a href="<?= $productUrl; ?>"
+               target="_blank"
+               title="<?= $escaper->escapeHtml(__('Show product in selected store')) ?>"
+               class="admin__field-action action-show">
+                <span><?= $escaper->escapeHtml(__('Show product')) ?></span>
+            </a>
+        </div>
+    </div>
+<?php endif; ?>

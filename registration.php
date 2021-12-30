@@ -4,6 +4,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'VendorName_Skeleton',
+    'Slashplus_FrontendLinks',
     __DIR__
 );

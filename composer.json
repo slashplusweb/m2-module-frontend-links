@@ -1,19 +1,19 @@
 {
-    "name": ":vendor_slug/:package_slug",
-    "description": ":package_description",
+    "name": "slashplus/module-frontend-links",
+    "description": "Add product frontend links to Magento 2 administration",
     "keywords": [
-        ":vendor_name",
-        ":package_slug",
+        "slashplus",
+        "module-frontend-links",
         "magento2"
     ],
     "type": "magento2-module",
-    "homepage": "https://github.com/:vendor_slug/m2-:package_slug",
+    "homepage": "https://github.com/slashplusweb/m2-module-frontend-links",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
-            "role": "Developer"
+            "name": "Emanuel Jacob",
+            "email": "info@slashplus.de",
+            "homepage": "https://www.slashplus.de"
         }
     ],
     "version": "0.1.0",
@@ -28,7 +28,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "VendorName\\Skeleton\\": ""
+            "Slashplus\\FrontendLinks\\": ""
         }
     },
     "scripts": {
